@@ -1,0 +1,143 @@
+{
+ "spec_version": "v1.34",
+ "identifier": "KSP-HistoryReplica-Core",
+ "name": "KSP 历史复刻包 · 核心包",
+ "abstract": "一键安装复刻人类航天史所需的全部历史部件包（美/苏/欧/中）+ 历史合同包，适配 KSP 1.12.5 原版尺寸。",
+ "author": "由 DSH 依据《KSP自用MOD清单》+ CKAN-meta-master 生成",
+ "license": "public-domain",
+ "version": "1.0.0",
+ "ksp_version_min": "1.12.0",
+ "ksp_version_max": "1.12.99",
+ "kind": "metapackage",
+ "depends": [
+  {
+   "name": "BluedogDB",
+   "version": "v1.14.0"
+  },
+  {
+   "name": "BluedogDB-CommunityCategoryKit",
+   "version": "v1.14.0"
+  },
+  {
+   "name": "FASA",
+   "version": "1:v7.2.7"
+  },
+  {
+   "name": "NewTantares",
+   "version": "v28.0"
+  },
+  {
+   "name": "IntercolorTantaresRecolors",
+   "version": "6.0 DA BIG ONE (not really)"
+  },
+  {
+   "name": "NewTantaresLV",
+   "version": "v16.2"
+  },
+  {
+   "name": "TantaresSP",
+   "version": "6.0"
+  },
+  {
+   "name": "TantaresSAF",
+   "version": "v3.0"
+  },
+  {
+   "name": "TantaresIVAExpansion",
+   "version": "v1.0.1"
+  },
+  {
+   "name": "Knes",
+   "version": "v1.9.9"
+  },
+  {
+   "name": "Coatl-Aerospace-Redux",
+   "version": "0.18.0.2"
+  },
+  {
+   "name": "EisenhowerAstronautics",
+   "version": "v1.1.0"
+  },
+  {
+   "name": "TheLonesomeRobotsCollection",
+   "version": "0.2.0"
+  },
+  {
+   "name": "Kerbalized-SpaceX",
+   "version": "1.26"
+  },
+  {
+   "name": "Corvus125mTwoKerbalPod",
+   "version": "2:1.3.7"
+  },
+  {
+   "name": "MOLE",
+   "version": "v1.31.2"
+  },
+  {
+   "name": "ModularLaunchPads",
+   "version": "2.9.1"
+  },
+  {
+   "name": "KIUChinese-Common",
+   "version": "1.0.7 - Hotfix"
+  },
+  {
+   "name": "KIUChineseHumanSpaceflightPack",
+   "version": "1:1.0.11 - Hotfix v2"
+  },
+  {
+   "name": "KIUChineseLaunchVehiclePack",
+   "version": "1.1.12 - Hotfix"
+  },
+  {
+   "name": "KIUChineseDeepspaceExplorationPack",
+   "version": "1.0.7 - Hotfix"
+  },
+  {
+   "name": "ContractConfigurator",
+   "version": "v2.14.0.0"
+  },
+  {
+   "name": "ContractConfigurator-HistoryofSpaceflight-Stock",
+   "version": "1.0"
+  },
+  {
+   "name": "ModuleManager",
+   "version": "4.2.3"
+  },
+  {
+   "name": "ChineseModPatches",
+   "version": "v1.8.5"
+  }
+ ],
+ "recommends": [
+  {
+   "name": "CommunityTechTree",
+   "version": "1:3.4.5"
+  },
+  {
+   "name": "ProbesBeforeCrew",
+   "version": "3.3.2"
+  },
+  {
+   "name": "Resurfaced",
+   "version": "v1.3"
+  },
+  {
+   "name": "RealChute",
+   "version": "v1.4.10.1"
+  },
+  {
+   "name": "ContractConfigurator-CareerEvolution",
+   "version": "1.3.3"
+  },
+  {
+   "name": "HabTech2",
+   "version": "1.1.0"
+  }
+ ],
+ "resources": {
+  "homepage": "https://zhuanlan.zhihu.com/p/720085327"
+ }
+}

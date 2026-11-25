@@ -1,0 +1,30 @@
+{
+ "spec_version": "v1.34",
+ "identifier": "KSP-HistoryReplica-Stations",
+ "name": "KSP 历史复刻包 · 空间站扩展",
+ "abstract": "HabTech2 系列国际空间站部件（需 Breaking Ground DLC），可与核心包一起复刻和平号/ISS 组装史。",
+ "author": "由 DSH 依据《KSP自用MOD清单》+ CKAN-meta-master 生成",
+ "license": "public-domain",
+ "version": "1.0.0",
+ "ksp_version_min": "1.12.0",
+ "ksp_version_max": "1.12.99",
+ "kind": "metapackage",
+ "depends": [
+  {
+   "name": "HabTech2",
+   "version": "1.1.0"
+  },
+  {
+   "name": "HabTechProps",
+   "version": "v0.2.0"
+  },
+  {
+   "name": "HabTechRobotics",
+   "version": "v1.0.1"
+  }
+ ],
+ "recommends": [],
+ "resources": {
+  "homepage": "https://zhuanlan.zhihu.com/p/720085327"
+ }
+}

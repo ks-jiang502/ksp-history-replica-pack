@@ -1,0 +1,214 @@
+{
+ "spec_version": "v1.34",
+ "identifier": "KSP-HistoryReplica-Tools",
+ "name": "KSP 历史复刻包 · 辅助工具包",
+ "abstract": "自动驾驶、轨道/对接信息、科学提示、车间工具、IVA 与摄影机等辅助工具合集，适配 KSP 1.12.5。",
+ "author": "由 DSH 依据《KSP自用MOD清单》+ CKAN-meta-master 生成",
+ "license": "public-domain",
+ "version": "1.0.0",
+ "ksp_version_min": "1.12.0",
+ "ksp_version_max": "1.12.99",
+ "kind": "metapackage",
+ "depends": [
+  {
+   "name": "MechJeb2",
+   "version": "2.15.4.0"
+  },
+  {
+   "name": "MechJebForAll",
+   "version": "1.3.0.7"
+  },
+  {
+   "name": "KerbalEngineerRedux",
+   "version": "1.1.9.5"
+  },
+  {
+   "name": "DockingPortAlignmentIndicator",
+   "version": "6.13.1.0"
+  },
+  {
+   "name": "Trajectories",
+   "version": "v2.4.5.6"
+  },
+  {
+   "name": "ScienceAlert",
+   "version": "1.9.20.5"
+  },
+  {
+   "name": "KEI",
+   "version": "1.2.10.7"
+  },
+  {
+   "name": "WaypointManager",
+   "version": "2.8.5.2"
+  },
+  {
+   "name": "KaptainsLog",
+   "version": "0.1.8.2"
+  },
+  {
+   "name": "HangarGrid",
+   "version": "1:0.4.1.2"
+  },
+  {
+   "name": "EasyVesselSwitch",
+   "version": "2.3"
+  },
+  {
+   "name": "AtmosphereAutopilot",
+   "version": "v1.6.1"
+  },
+  {
+   "name": "RCSBuildAid",
+   "version": "v1.0.6"
+  },
+  {
+   "name": "KerbalJointReinforcementContinued",
+   "version": "v3.9.0.0"
+  },
+  {
+   "name": "ReCoupler",
+   "version": "1:1.4.0"
+  },
+  {
+   "name": "FMRSContinued",
+   "version": "1.2.9.6"
+  },
+  {
+   "name": "SpeedUnitAnnex",
+   "version": "1.6.1"
+  },
+  {
+   "name": "Chatterer",
+   "version": "0.9.99"
+  },
+  {
+   "name": "ShipEffectsContinued",
+   "version": "1.0.13"
+  },
+  {
+   "name": "PhysicsRangeExtender",
+   "version": "1.21.0"
+  },
+  {
+   "name": "JanitorsCloset",
+   "version": "0.4.1.9"
+  },
+  {
+   "name": "KSPLaunchCountdown",
+   "version": "0.2.7"
+  },
+  {
+   "name": "QuickCursorHider",
+   "version": "1:1.1.0.10"
+  },
+  {
+   "name": "ShowFPS",
+   "version": "1:0.3.3"
+  },
+  {
+   "name": "CameraTools",
+   "version": "v1.37.1"
+  },
+  {
+   "name": "WindTunnel",
+   "version": "2.1.1.1"
+  },
+  {
+   "name": "KVVContinued",
+   "version": "0.1.2"
+  },
+  {
+   "name": "FilterExtensions",
+   "version": "3.2.9.1"
+  },
+  {
+   "name": "FilterExtensionsDefaultConfig",
+   "version": "3.2.9.1"
+  },
+  {
+   "name": "VABOrganizer",
+   "version": "1.2.0"
+  },
+  {
+   "name": "ABCORS",
+   "version": "0.5.4"
+  },
+  {
+   "name": "BetterLoadSaveGame",
+   "version": "2.5.3.7"
+  },
+  {
+   "name": "VesselMoverContinued",
+   "version": "v1.12.0"
+  },
+  {
+   "name": "IndicatorLights",
+   "version": "1.8.3"
+  },
+  {
+   "name": "AntennaHelper",
+   "version": "2:1.0.7.8"
+  },
+  {
+   "name": "ResonantOrbitCalculator",
+   "version": "0.0.8.1"
+  },
+  {
+   "name": "RoverScienceCont",
+   "version": "2.3.5.11"
+  },
+  {
+   "name": "OrbitPOInts",
+   "version": "v0.6.1"
+  },
+  {
+   "name": "TrackingStationEvolved",
+   "version": "7.0"
+  },
+  {
+   "name": "FreeIva",
+   "version": "0.2.20.2"
+  },
+  {
+   "name": "ThroughTheEyesOfaKerbal",
+   "version": "2.0.4.5"
+  },
+  {
+   "name": "EVAEnhancementsContinued",
+   "version": "0.1.15.3"
+  },
+  {
+   "name": "ConnectedLivingSpace",
+   "version": "v2.0.2.0"
+  },
+  {
+   "name": "ASETProps",
+   "version": "v2.0.7"
+  },
+  {
+   "name": "DE-IVAExtension",
+   "version": "v1.3.0"
+  },
+  {
+   "name": "RasterPropMonitor",
+   "version": "1:v1.1.0.1"
+  },
+  {
+   "name": "AvionicsSystems",
+   "version": "v1.3.7"
+  },
+  {
+   "name": "TUFX",
+   "version": "1.1.1"
+  },
+  {
+   "name": "Resurfaced",
+   "version": "v1.3"
+  }
+ ],
+ "recommends": [],
+ "resources": {
+  "homepage": "https://zhuanlan.zhihu.com/p/720085327"
+ }
+}

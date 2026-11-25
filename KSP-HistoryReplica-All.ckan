@@ -1,0 +1,30 @@
+{
+ "spec_version": "v1.34",
+ "identifier": "KSP-HistoryReplica-All",
+ "name": "KSP 历史复刻包 · 全家桶",
+ "abstract": "核心包 + 辅助工具包 + 空间站扩展，一次装齐（约 4 GB 下载）。",
+ "author": "由 DSH 依据《KSP自用MOD清单》+ CKAN-meta-master 生成",
+ "license": "public-domain",
+ "version": "1.0.0",
+ "ksp_version_min": "1.12.0",
+ "ksp_version_max": "1.12.99",
+ "kind": "metapackage",
+ "depends": [
+  {
+   "name": "KSP-HistoryReplica-Core",
+   "version": "1.0.0"
+  },
+  {
+   "name": "KSP-HistoryReplica-Tools",
+   "version": "1.0.0"
+  },
+  {
+   "name": "KSP-HistoryReplica-Stations",
+   "version": "1.0.0"
+  }
+ ],
+ "recommends": [],
+ "resources": {
+  "homepage": "https://zhuanlan.zhihu.com/p/720085327"
+ }
+}
